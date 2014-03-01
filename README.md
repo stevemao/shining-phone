@@ -8,7 +8,7 @@ shiningPhone.js is a jQuery plugin to show off your phone!
 Usages
 =============
 
-After including JQuery, simply download and include shiningPhone.js. For example, let's consider adding the following just before your closing </body> tag:
+After including JQuery, simply download and include shiningPhone.js. For example, let's consider adding the following just before your closing body tag:
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
