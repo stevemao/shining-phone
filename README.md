@@ -39,7 +39,7 @@ and call
 
 $('body').shiningPhone(options);
 
-That's it folks!
 
-### That's so great, let's rock!!!
+
+### That's it folks!!
 
