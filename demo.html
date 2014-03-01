@@ -7,6 +7,12 @@
 <body>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	<script src='javascripts/shiningPhone.js'></script>
-	<script>$('body').shiningPhone();</script>
+	<button>Click here to see a different effect!</button>
+	<script>
+		$('body').shiningPhone();
+		$('button').click(function(){
+			location.reload();
+		})
+	</script>
 </body>
 </html>
