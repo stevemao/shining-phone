@@ -1,12 +1,4 @@
 Shining-phone
 =============
 
-
-
-
-$('body').one('webkitAnimationEnd oanimationend msAnimationEnd animationend', function(event) {
-
-    // code to execute after animation ends
-
-
-});
+Please visit our <a href='http://stevemao.github.io/Shining-phone/demo.html'>demo page</a>
